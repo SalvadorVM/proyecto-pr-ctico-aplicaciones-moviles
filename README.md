@@ -1,1 +1,1 @@
-# proyecto-pr-ctico-aplicaciones-moviles
+# proyecto-practico-aplicaciones-moviles
